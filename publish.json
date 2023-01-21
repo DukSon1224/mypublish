@@ -9,7 +9,7 @@
             {
                "Version": "1.0.0.2",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest2/Test.Application2.7z",
-               "Note": "yes this is a version note content. 한글도 되나 테스트..??"
+               "Note": "yes this is a version note content. 한글도 되나 테스트..??\n멀ti라인 tㅔ스트"
             }
          ],
          "Name": "Test 한글Application",
