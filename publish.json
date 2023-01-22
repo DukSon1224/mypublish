@@ -10,6 +10,11 @@
             {
                "Version": "1.0.0.2",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest2/Test.Application2.7z"
+            },
+            {
+               "Version": "1.0.0.3",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/test3/bin.7z",
+               "Note": "yey test ahk"
             }
          ],
          "Name": "Test 한글Application",
