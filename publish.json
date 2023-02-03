@@ -125,6 +125,18 @@
          "CurrentVersion": "1.0.0.0"
       },
       {
+         "Name": "copyPaste",
+         "Id": "D35951DB-74CA-494B-A852-626ED8FC8EF8",
+         "CurrentVersion": "1.0.0.0",
+         "Files": [
+            {
+               "Version": "1.0.0.0",
+               "Path": "path",
+               "Note": ""
+            }
+         ]
+      },
+      {
          "Name": "app name",
          "Id": "app id",
          "CurrentVersion": "1.0.0.0",
