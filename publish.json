@@ -29,7 +29,11 @@
          "Files": [
             {
                "Version": "1.0.1.0",
-               "Path": "path"
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest1/fpsUI.pff"
+            },
+            {
+               "Version": "1.0.1.1",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest2/fpsUI.pff"
             }
          ]
       },
