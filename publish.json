@@ -48,12 +48,12 @@
          "Files": [
             {
                "Version": "1.0.0.0",
-               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest1/myTest.7z",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest1/appname.7z",
                "Note": "note"
             },
             {
                "Version": "1.0.0.1",
-               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest2/myTest.7z"
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest2/appname.7z"
             }
          ]
       }
