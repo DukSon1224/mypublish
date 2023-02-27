@@ -42,14 +42,18 @@
          ]
       },
       {
-         "Name": "app name",
-         "Id": "app id",
-         "CurrentVersion": "1.0.0.0",
+         "Name": "appname",
+         "Id": "03E0C9AF-F7D2-4D83-9151-A8EAC5B26F13",
+         "CurrentVersion": "1.0.0.1",
          "Files": [
             {
                "Version": "1.0.0.0",
-               "Path": "path",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest1/myTest.7z",
                "Note": "note"
+            },
+            {
+               "Version": "1.0.0.1",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest2/myTest.7z"
             }
          ]
       }
