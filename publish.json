@@ -3,7 +3,7 @@
       {
          "Name": "copyPaste",
          "Id": "D35951DB-74CA-494B-A852-626ED8FC8EF8",
-         "CurrentVersion": "1.0.0.1",
+         "CurrentVersion": "1.0.0.2",
          "Files": [
             {
                "Version": "1.0.0.0",
@@ -12,6 +12,10 @@
             {
                "Version": "1.0.0.1",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/copyPaste-1.0.0.1/copyPaste.7z"
+            },
+            {
+               "Version": "1.0.0.2",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/copyPaste-1.0.0.2/copyPaste.7z"
             }
          ]
       },
