@@ -44,23 +44,6 @@
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/fpsUI-1.0.1.1/fpsUI.pff"
             }
          ]
-      },
-      {
-         "Name": "myTest",
-         "Id": "03E0C9AF-F7D2-4D83-9151-A8EAC5B26F13",
-         "CurrentVersion": "1.0.0.1",
-         "Files": [
-            {
-               "Version": "1.0.0.0",
-               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest1/myTest.7z",
-               "Note": "note"
-            },
-            {
-               "Version": "1.0.0.1",
-               "Path": "https://github.com/DukSon1224/mypublish/releases/download/mytest2/myTest.7z",
-               "Note": "note0"
-            }
-         ]
       }
    ]
 }
