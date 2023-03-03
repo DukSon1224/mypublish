@@ -33,7 +33,7 @@
       {
          "Name": "fpsUI",
          "Id": "406FF482-39B6-4310-8D9B-80AC21E1E3D2",
-         "CurrentVersion": "1.0.1.1",
+         "CurrentVersion": "1.0.1.2",
          "Files": [
             {
                "Version": "1.0.1.0",
@@ -42,6 +42,10 @@
             {
                "Version": "1.0.1.1",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/fpsUI-1.0.1.1/fpsUI.pff"
+            },
+            {
+               "Version": "1.0.1.2",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/fpsUI-1.0.1.2/fpsUI.pff"
             }
          ]
       }
