@@ -48,6 +48,17 @@
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/fpsUI-1.0.1.2/fpsUI.pff"
             }
          ]
+      },
+      {
+         "Name": "FLIRViewer",
+         "Id": "AA32D1E9-1F0E-4F62-94EC-50BC7D7B55CB",
+         "CurrentVersion": "1.0.0.7",
+         "Files": [
+            {
+               "Version": "1.0.0.7",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/FLIRViewer-1.0.0.7/FLIRViewer-1.0.0.7.7z"
+            }
+         ]
       }
    ]
 }
