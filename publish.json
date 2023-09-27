@@ -67,7 +67,7 @@
          "Files": [
             {
                "Version": "1.0.0.0",
-               "Path": ""
+               "Path": "test path"
             }
          ]
       }
