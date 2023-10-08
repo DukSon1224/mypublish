@@ -66,10 +66,6 @@
          "CurrentVersion": "1.0.0.2",
          "Files": [
             {
-               "Version": "1.0.0.1",
-               "Path": "https://github.com/DukSon1224/mypublish/releases/download/docmod-1.0.0.1/docmod-1.0.0.1.7z"
-            },
-            {
                "Version": "1.0.0.2",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/docmod-1.0.0.2/docmod-1.0.0.2.7z"
             }
