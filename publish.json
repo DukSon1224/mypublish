@@ -70,6 +70,17 @@
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/docmod-1.0.0.2/docmod-1.0.0.2.7z"
             }
          ]
+      },
+      {
+         "Name": "pdf2img",
+         "Id": "040054ab-195b-49ec-9df9-955785e9558f",
+         "CurrentVersion": "1.0.0.3",
+         "Files": [
+            {
+               "Version": "1.0.0.3",
+               "Path": ""
+            }
+         ]
       }
    ]
 }
