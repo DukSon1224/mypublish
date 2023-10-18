@@ -81,6 +81,17 @@
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/pdf2img-1.0.0.3/pdf2img-1.0.0.3.7z"
             }
          ]
+      },
+      {
+         "Name": "pipcon",
+         "Id": "2BD55599-AAF3-4B80-AA49-4D7C630FB836",
+         "CurrentVersion": "1.0.0.2",
+         "Files": [
+            {
+               "Version": "1.0.0.2",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/pipCon-1.0.0.2/pipcon-1.0.0.2.7z"
+            }
+         ]
       }
    ]
 }
