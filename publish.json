@@ -116,7 +116,7 @@
       {
          "Name": "ytdown",
          "Id": "27405EC0-A569-4D0B-A348-C734540F9402",
-         "CurrentVersion": "1.0.1.15",
+         "CurrentVersion": "1.0.1.16",
          "Files": [
             {
                "Version": "1.0.1.13",
@@ -125,6 +125,10 @@
             {
                "Version": "1.0.1.15",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/ytdown/ytdown_install-1.0.1.15.exe"
+            },
+            {
+               "Version": "1.0.1.16",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/ytdown/ytdown_install-1.0.1.16.exe"
             }
          ]
       }
