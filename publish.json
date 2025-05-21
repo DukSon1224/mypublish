@@ -125,6 +125,10 @@
             {
                "Version": "1.0.1.18",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/ytdown/ytdown_install-1.0.1.18.exe"
+            },
+            {
+               "Version": "1.0.1.22",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/ytdown/ytdown_install-1.0.1.22.exe"
             }
          ]
       }
