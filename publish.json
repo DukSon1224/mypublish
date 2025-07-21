@@ -71,11 +71,15 @@
       {
          "Name": "docmod",
          "Id": "799C5DE8-B4A3-4548-9FE9-5D4BEBEAFB2B",
-         "CurrentVersion": "1.0.0.3",
+         "CurrentVersion": "1.0.0.4",
          "Files": [
             {
                "Version": "1.0.0.3",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/docmod-1.0.0.3/docmod-1.0.0.3.7z"
+            },
+            {
+               "Version": "1.0.0.4",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/docmod-1.0.0.3/docmod-1.0.0.4.7z"
             }
          ]
       },
