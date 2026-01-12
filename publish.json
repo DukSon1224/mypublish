@@ -139,7 +139,7 @@
       {
          "Name": "findLongPath",
          "Id": "4E4EDF80-B9CB-497F-AB13-F34B0A40F89B",
-         "CurrentVersion": "1.0.1.0",
+         "CurrentVersion": "1.0.2.0",
          "Files": [
             {
                "Version": "1.0.0.0",
@@ -148,11 +148,16 @@
             {
                "Version": "1.0.1.0",
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/findLongPath/Find_Long_Names-v1.0.1.7z"
+            },
+            {
+               "Version": "1.0.2.0",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/findLongPath/Find_Long_Names-v1.0.2.7z"
             }
          ]
       }
    ]
 }
+
 
 
 
