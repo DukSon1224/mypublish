@@ -146,8 +146,8 @@
                "Path": "https://github.com/DukSon1224/mypublish/releases/download/findLongPath/Find_Long_Names-v1.0.3.7z"
             },
             {
-               "Version": "1.0.1.0",
-               "Path": "https://github.com/DukSon1224/mypublish/releases/download/findLongPath/Find_Long_Names-v1.0.1.7z"
+               "Version": "1.1.0.0",
+               "Path": "https://github.com/DukSon1224/mypublish/releases/download/findLongPath/Find_Long_Names-v1.1.0.7z"
             },
             {
                "Version": "1.0.2.0",
@@ -157,6 +157,7 @@
       }
    ]
 }
+
 
 
 
